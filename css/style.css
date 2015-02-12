@@ -29,7 +29,7 @@ body {
 	color: #fff;
 }
 ol, ul {
-	list-style: none;
+	/*list-style: none;*/
 }
 blockquote, q {
 	quotes: none;
