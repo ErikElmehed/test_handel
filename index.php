@@ -2,10 +2,18 @@
 <?php require 'header.php'; ?> 
 
 <div class="content">
-	
-</div>
+	<?php
+	$drinks = array(
+		array('Coke zero', '50cl', 15),
+		array('Coke zero', '33cl', 10),
+		array('Beer', '50cl', 25),
+		array('Beer', '33cl', 10)
+		);
+		?>
 
-<?php require 'footer.php'; ?> 
+	</div>
+
+	<?php require 'footer.php'; ?> 
 
 
 
