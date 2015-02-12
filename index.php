@@ -16,6 +16,8 @@
 					$drinks = array(
 						array('Coke zero', 50, 15),
 						array('Coke zero', 33, 10),
+						array('Julmust', 50, 20),
+						array('Julmust', 33, 10),
 						array('Beer', 50, 25),
 						array('Beer', 33, 10)
 						);
