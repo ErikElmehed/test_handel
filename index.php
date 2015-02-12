@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title></title>
+	<title>E-handel Site</title>
 </head>
 <body>
 
