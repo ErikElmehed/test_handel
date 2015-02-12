@@ -15,7 +15,6 @@ time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: inherit;
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
@@ -104,6 +103,11 @@ header {
     margin: 0 auto;
     overflow: hidden;
 	z-index: 0;
+}
+/* ------------------------------------ FONT AWESOMEEEE ------------------------- */
+.fa-shopping-cart {
+	color: #5BFF9F;
+	font-size: 5.5em;
 }
 
 body {
