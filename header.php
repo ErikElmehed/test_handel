@@ -1,12 +1,18 @@
 <html>
 <head>
 	<title>E-handel</title>
-<<<<<<< HEAD
+<<<<<<< Updated upstream
 	<link rel="stylesheet" type="text/css" href="css/style.css">
-=======
 	<meta charset="UTF-8">
 
->>>>>>> FETCH_HEAD
+=======
+
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+
+	<meta charset="UTF-8">
+
+
+>>>>>>> Stashed changes
 </head>
 <body>
 
