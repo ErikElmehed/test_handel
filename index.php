@@ -4,11 +4,10 @@
 <div class="section-wrapper">
 	<div class="onerow">
 		<div class="col6">
-			<h1>Välkommen till världens bästa E-handel</h1>
-			<h2>Här kan du hitta allt du vill mellan himmel och jord</h2>
+			
 		</div>
 		<div class="col6 last">
-			<p>kom å kööp!</p>
+			<p>Våra produkter:</p>
 		</div>
 		<div class="onerow">
 			<div class="col8">
