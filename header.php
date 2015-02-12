@@ -1,9 +1,7 @@
 <html>
 <head>
-	<title></title>
+	<title>E-handel</title>
 
 </head>
 <body>
 
-</body>
-</html>
