@@ -1,6 +1,7 @@
 
 <?php require 'header.php'; ?> 
 
+<h1>Välkommen till världens bästa E-handel</h1>
 <div class="content">
 	<?php
 	$drinks = array(
@@ -10,7 +11,6 @@
 		array('Beer', '33cl', 10)
 		);
 		?>
-
 	</div>
 
 	<?php require 'footer.php'; ?> 
