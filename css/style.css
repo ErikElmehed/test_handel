@@ -105,7 +105,7 @@ header {
 	z-index: 0;
 }
 /* ------------------------------------ FONT AWESOMEEEE ------------------------- */
-.fa-shopping-cart {
+.fa-shopping-cart::before {
 	color: #5BFF9F;
 	font-size: 5.5em;
 }

@@ -4,8 +4,10 @@
 <div class="section-wrapper">
 	<div class="onerow">
 		<div class="col6">
-			<i class="fa fa-shopping-cart"></i>
 			<p>Våra produkter:</p>
+		</div>
+		<div class="col6 last">
+			<i class="fa fa-shopping-cart"></i>
 		</div>
 		<div class="onerow">
 			<div class="col8">
