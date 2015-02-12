@@ -25,6 +25,8 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	background: #161616;
+	color: #fff;
 }
 ol, ul {
 	list-style: none;
@@ -41,7 +43,6 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
 
 /* *********************************************************************************************************************
 	Main grid
@@ -106,4 +107,16 @@ body {
 	background-color: black;
 	color: white;
 	margin: 0 auto;
+h1 {
+	font-size: 48px;
+}
+h2 {
+	font-size: 36px;
+}
+h3 {
+	font-size: 28px;
+}
+a {
+	color: #eee;
+	text-decoration: none;
 }
